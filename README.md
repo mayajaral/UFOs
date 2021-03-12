@@ -6,10 +6,10 @@ The purpose of this webpage is to allow users to search and filter UFO fighting 
 ## Results
 After accessing the webpage users can use a multitude of filtering options.
 To filter one criteria you enter the criteria in the desired filter and hit enter.
-
+![oneFilter.PNG](https://github.com/mayajaral/UFOs/blob/main/images/oneFilter.PNG)
 
 To filter multiple criteria you fill in all the desired filters and hit enter. 
-
+![multipleFilter.PNG](https://github.com/mayajaral/UFOs/blob/main/images/multipleFilter.PNG)
 
 ## Summary
 ### Drawback-
